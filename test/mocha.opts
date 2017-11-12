@@ -1,0 +1,4 @@
+--recursive
+--reporter mochawesome
+--watch
+-t 4000
